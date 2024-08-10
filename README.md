@@ -1,5 +1,3 @@
-Here's a `README.md` file for your data engineering project using the Medallion Architecture:
-
 ```markdown
 # Data Engineering Project: Medallion Architecture
 
