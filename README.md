@@ -1,4 +1,3 @@
-```markdown
 # Data Engineering Project: Medallion Architecture
 
 This project demonstrates a data engineering pipeline using the Medallion Architecture on Azure. The pipeline involves data extraction, transformation, and loading (ETL) processes, utilizing various Azure services, including Azure Storage, Azure SQL Database, Azure Data Factory, Azure Databricks, and DBT (Data Build Tool).
@@ -109,6 +108,3 @@ This project demonstrates the implementation of the Medallion Architecture using
 - [Azure Data Factory Documentation](https://docs.microsoft.com/en-us/azure/data-factory/)
 - [Azure Databricks Documentation](https://docs.microsoft.com/en-us/azure/databricks/)
 - [DBT Documentation](https://docs.getdbt.com/)
-```
-
-You can copy and paste this into your `README.md` file on GitHub. Feel free to modify any details to better suit your specific setup.
