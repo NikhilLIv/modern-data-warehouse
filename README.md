@@ -83,7 +83,7 @@ This project demonstrates a data engineering pipeline using the Medallion Archit
 
 ## Project Structure
 
-```
+
 /project-root
 │
 ├── data-factory-pipeline/
@@ -97,7 +97,7 @@ This project demonstrates a data engineering pipeline using the Medallion Archit
 │   │   └── gold/
 │   └── snapshots/
 └── README.md
-```
+
 
 ## Conclusion
 
