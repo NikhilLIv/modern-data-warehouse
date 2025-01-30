@@ -81,24 +81,6 @@ This project demonstrates a data engineering pipeline using the Medallion Archit
 7. **Generate DBT Documentation**:
    - Run DBT commands to generate documentation for the project.
 
-## Project Structure
-
-
-/project-root
-│
-├── data-factory-pipeline/
-│   └── pipeline.json
-├── databricks-notebooks/
-│   └── ingestion-notebook.py
-├── dbt/
-│   ├── models/
-│   │   ├── bronze/
-│   │   ├── silver/
-│   │   └── gold/
-│   └── snapshots/
-└── README.md
-
-
 ## Conclusion
 
 This project demonstrates the implementation of the Medallion Architecture using Azure services. By following the steps outlined above, you can replicate the process and adapt it to your own data engineering needs.
